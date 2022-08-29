@@ -1,0 +1,10 @@
+node_modules
+.umi
+.umi-production
+dist
+.mfsu
+*.d.ts
+compiled
+*.js
+*.md
+*.yaml
