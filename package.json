@@ -20,6 +20,7 @@
   "bugs": {
     "url": "https://github.com/umijs/did-you-know/issues"
   },
+  "packageManager": "pnpm@7.3.0",
   "homepage": "https://github.com/umijs/did-you-know#readme",
   "devDependencies": {
     "@types/node": "^18.7.13",
