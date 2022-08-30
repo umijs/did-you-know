@@ -47,3 +47,10 @@ export default (api: any) => {
     return null;
   }
 };
+
+interface ITip {
+  text: string
+  url?: string
+  majorVersion?: number
+  framework?: string[]
+}
