@@ -30,7 +30,7 @@ export default (api: any) => {
     logger.info(info.join(' ') + '。');
   });
 
-  function getDidYouKnow(items = [], framwork: string, majorVersion: string) {
+  function getDidYouKnow(items: ITip[] = [], framwork: string, majorVersion: string) {
     // 1、get matched
     const matched = items.filter((item: any) => {
       return (
