@@ -115,7 +115,7 @@ export function assert(v: unknown, message: string) {
   }
 
   await $`npm publish --tag ${tag} ${otpArg}`;
-  logger.info(`+ alita`);
+  logger.info(`+ @umijs/did-you-know`);
 
   $.verbose = true;
 })();
