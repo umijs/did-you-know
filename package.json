@@ -16,7 +16,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/umijs/did-you-know/issues"
   },
@@ -80,10 +80,6 @@
       "majorVersion": 4
     }
   ],
-  "dependencies": {
-    "joi": "^17.6.0",
-    "semver": "^7.3.7"
-  },
   "publishConfig": {
     "access": "public"
   }
