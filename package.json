@@ -81,7 +81,7 @@
       "majorVersion": 4
     },
     {
-      "text": " @alipay/bigfish-doctor 已经发布啦！欢迎抢先体验！为我们提供宝贵案例或改进意见！",
+      "text": "Bigfish Doctor 发布啦！遇到问题请先 tnpx @alipay/bigfish-doctor 一下。",
       "url": "https://yuque.antfin.com/bigfish/blog/bigfish-doctor",
       "majorVersion": 4,
       "framework": "@alipay/bigfish"
